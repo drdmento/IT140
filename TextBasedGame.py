@@ -1,6 +1,5 @@
-# Jeremy Dawson
 # IT140
-# Professor Wright
+
 
 # status function will print current room and current inventory for the player
 def status():
